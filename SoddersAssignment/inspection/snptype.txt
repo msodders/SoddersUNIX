@@ -1,0 +1,1 @@
+snp_position.txt: ASCII text
